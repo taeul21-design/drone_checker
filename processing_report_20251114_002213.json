@@ -1,0 +1,91 @@
+{
+  "timestamp": "2025-11-14T00:22:13.398722",
+  "version": "v6",
+  "mode": "overlay_and_rename",
+  "description": "이미지 하단에 지번 표시 + 파일명 자동 변경",
+  "total": 16,
+  "success": 0,
+  "fail": 16,
+  "results": [
+    {
+      "filename": "DJI_0001.JPG",
+      "status": "FAIL",
+      "reason": "GPS_NOT_FOUND"
+    },
+    {
+      "filename": "DJI_0002.JPG",
+      "status": "FAIL",
+      "reason": "GPS_NOT_FOUND"
+    },
+    {
+      "filename": "DJI_0003.JPG",
+      "status": "FAIL",
+      "reason": "GPS_NOT_FOUND"
+    },
+    {
+      "filename": "DJI_0004.JPG",
+      "status": "FAIL",
+      "reason": "GPS_NOT_FOUND"
+    },
+    {
+      "filename": "DJI_0005.JPG",
+      "status": "FAIL",
+      "reason": "GPS_NOT_FOUND"
+    },
+    {
+      "filename": "DJI_0006.JPG",
+      "status": "FAIL",
+      "reason": "GPS_NOT_FOUND"
+    },
+    {
+      "filename": "DJI_0007.JPG",
+      "status": "FAIL",
+      "reason": "GPS_NOT_FOUND"
+    },
+    {
+      "filename": "DJI_0008.JPG",
+      "status": "FAIL",
+      "reason": "GPS_NOT_FOUND"
+    },
+    {
+      "filename": "DJI_0009.JPG",
+      "status": "FAIL",
+      "reason": "GPS_NOT_FOUND"
+    },
+    {
+      "filename": "DJI_0010.JPG",
+      "status": "FAIL",
+      "reason": "GPS_NOT_FOUND"
+    },
+    {
+      "filename": "DJI_0011.JPG",
+      "status": "FAIL",
+      "reason": "GPS_NOT_FOUND"
+    },
+    {
+      "filename": "DJI_0012.JPG",
+      "status": "FAIL",
+      "reason": "GPS_NOT_FOUND"
+    },
+    {
+      "filename": "DJI_0013.JPG",
+      "status": "FAIL",
+      "reason": "GPS_NOT_FOUND"
+    },
+    {
+      "filename": "DJI_0014.JPG",
+      "status": "FAIL",
+      "reason": "GPS_NOT_FOUND"
+    },
+    {
+      "filename": "DJI_0015.JPG",
+      "status": "FAIL",
+      "reason": "GPS_NOT_FOUND"
+    },
+    {
+      "filename": "DJI_0016.JPG",
+      "status": "FAIL",
+      "reason": "GPS_NOT_FOUND"
+    }
+  ]
+}

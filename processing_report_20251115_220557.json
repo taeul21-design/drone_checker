@@ -1,0 +1,63 @@
+{
+  "timestamp": "2025-11-15T22:05:57.456297",
+  "total_files": 5,
+  "success_count": 5,
+  "failed_count": 0,
+  "results": [
+    {
+      "file": "DJI_0001.JPG",
+      "new_file": "경주시_산내면_167-4전_01.JPG",
+      "status": "success",
+      "coordinates": {
+        "lat": 35.784360166666666,
+        "lon": 129.08135683333333
+      },
+      "jibun": "경주시 산내면 167-4전",
+      "output_file": "C:/드론사진원본\\processed_images\\경주시_산내면_167-4전_01.JPG"
+    },
+    {
+      "file": "DJI_0004.JPG",
+      "new_file": "경주시_산내면_2530-1전_01.JPG",
+      "status": "success",
+      "coordinates": {
+        "lat": 35.67303230555555,
+        "lon": 129.04892019444443
+      },
+      "jibun": "경주시 산내면 2530-1전",
+      "output_file": "C:/드론사진원본\\processed_images\\경주시_산내면_2530-1전_01.JPG"
+    },
+    {
+      "file": "DJI_0007.JPG",
+      "new_file": "경주시_산내면_2598전_01.JPG",
+      "status": "success",
+      "coordinates": {
+        "lat": 35.67282511111111,
+        "lon": 129.05036386111112
+      },
+      "jibun": "경주시 산내면 2598전",
+      "output_file": "C:/드론사진원본\\processed_images\\경주시_산내면_2598전_01.JPG"
+    },
+    {
+      "file": "DJI_0010.JPG",
+      "new_file": "경주시_산내면_산403-1임_01.JPG",
+      "status": "success",
+      "coordinates": {
+        "lat": 35.67261047222222,
+        "lon": 129.05038516666667
+      },
+      "jibun": "경주시 산내면 산403-1임",
+      "output_file": "C:/드론사진원본\\processed_images\\경주시_산내면_산403-1임_01.JPG"
+    },
+    {
+      "file": "DJI_0013.JPG",
+      "new_file": "경주시_서면_485답_01.JPG",
+      "status": "success",
+      "coordinates": {
+        "lat": 35.86466908333333,
+        "lon": 129.04271
+      },
+      "jibun": "경주시 서면 485답",
+      "output_file": "C:/드론사진원본\\processed_images\\경주시_서면_485답_01.JPG"
+    }
+  ]
+}

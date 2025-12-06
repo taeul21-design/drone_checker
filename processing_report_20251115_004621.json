@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-11-15T00:46:21.622745",
+  "total_files": 1,
+  "success_count": 0,
+  "failed_count": 1,
+  "results": [
+    {
+      "file": "DJI_0002.JPG",
+      "status": "failed",
+      "error": "지번 변환 실패",
+      "coordinates": {
+        "lat": 

@@ -1,0 +1,24 @@
+{
+  "vworld_api_key": "D7DAD017-CFFF-3690-9B60-5612730DF5D7",
+  "kakao_api_key": "",
+  "output_folder": "./processed_images",
+  "backup_original": true,
+  "api_provider": "vworld",
+  "add_text_overlay": true,
+  "include_jimok": false,
+  "default_jimok": "답",
+  "overlay_style": {
+    "background_color": [
+      255,
+      255,
+      255
+    ],
+    "text_color": [
+      0,
+      0,
+      0
+    ],
+    "opacity": 0.8,
+    "font_size": 72
+  }
+}

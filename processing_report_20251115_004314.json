@@ -1,0 +1,26 @@
+{
+  "timestamp": "2025-11-15T00:43:14.525785",
+  "total_files": 3,
+  "success_count": 0,
+  "failed_count": 3,
+  "results": [
+    {
+      "file": "DJI_0001.JPG",
+      "status": "failed",
+      "error": "GPS 좌표 추출 실패",
+      "coordinates": null,
+      "jibun": null
+    },
+    {
+      "file": "DJI_0002.JPG",
+      "status": "failed",
+      "error": "GPS 좌표 추출 실패",
+      "coordinates": null,
+      "jibun": null
+    },
+    {
+      "file": "DJI_0005.JPG",
+      "status": "failed",
+      "error": "지번 변환 실패",
+      "coordinates": {
+        "lat": 

@@ -1,0 +1,123 @@
+{
+  "timestamp": "2025-11-13T23:40:08.699495",
+  "version": "v5",
+  "mode": "direct_overlay_no_exif",
+  "description": "원본 이미지에 지번 텍스트 직접 표시 (EXIF 간소화)",
+  "total": 16,
+  "success": 16,
+  "fail": 0,
+  "results": [
+    {
+      "filename": "DJI_0001.JPG",
+      "status": "SUCCESS",
+      "address": "경상북도 경주시 산내면 내일리 167-4",
+      "gps": "35.784360,129.081357",
+      "overlay_applied": true
+    },
+    {
+      "filename": "DJI_0002.JPG",
+      "status": "SUCCESS",
+      "address": "경상북도 경주시 산내면 내일리 산 584",
+      "gps": "35.784382,129.081701",
+      "overlay_applied": true
+    },
+    {
+      "filename": "DJI_0003.JPG",
+      "status": "SUCCESS",
+      "address": "경상북도 경주시 산내면 대현리 2531",
+      "gps": "35.673256,129.048964",
+      "overlay_applied": true
+    },
+    {
+      "filename": "DJI_0004.JPG",
+      "status": "SUCCESS",
+      "address": "경상북도 경주시 산내면 대현리 2530-1",
+      "gps": "35.673032,129.048920",
+      "overlay_applied": true
+    },
+    {
+      "filename": "DJI_0005.JPG",
+      "status": "SUCCESS",
+      "address": "경상북도 경주시 산내면 대현리 2531",
+      "gps": "35.673253,129.048959",
+      "overlay_applied": true
+    },
+    {
+      "filename": "DJI_0006.JPG",
+      "status": "SUCCESS",
+      "address": "경상북도 경주시 산내면 대현리 2530-1",
+      "gps": "35.673033,129.048921",
+      "overlay_applied": true
+    },
+    {
+      "filename": "DJI_0007.JPG",
+      "status": "SUCCESS",
+      "address": "경상북도 경주시 산내면 대현리 2598",
+      "gps": "35.672825,129.050364",
+      "overlay_applied": true
+    },
+    {
+      "filename": "DJI_0008.JPG",
+      "status": "SUCCESS",
+      "address": "경상북도 경주시 산내면 대현리 산 403-1",
+      "gps": "35.672608,129.050383",
+      "overlay_applied": true
+    },
+    {
+      "filename": "DJI_0009.JPG",
+      "status": "SUCCESS",
+      "address": "경상북도 경주시 산내면 대현리 2596",
+      "gps": "35.672875,129.050360",
+      "overlay_applied": true
+    },
+    {
+      "filename": "DJI_0010.JPG",
+      "status": "SUCCESS",
+      "address": "경상북도 경주시 산내면 대현리 산 403-1",
+      "gps": "35.672610,129.050385",
+      "overlay_applied": true
+    },
+    {
+      "filename": "DJI_0011.JPG",
+      "status": "SUCCESS",
+      "address": "경상북도 경주시 서면 천촌리 485",
+      "gps": "35.864684,129.042674",
+      "overlay_applied": true
+    },
+    {
+      "filename": "DJI_0012.JPG",
+      "status": "SUCCESS",
+      "address": "경상북도 경주시 서면 천촌리 486",
+      "gps": "35.864769,129.042111",
+      "overlay_applied": true
+    },
+    {
+      "filename": "DJI_0013.JPG",
+      "status": "SUCCESS",
+      "address": "경상북도 경주시 서면 천촌리 485",
+      "gps": "35.864669,129.042710",
+      "overlay_applied": true
+    },
+    {
+      "filename": "DJI_0014.JPG",
+      "status": "SUCCESS",
+      "address": "경상북도 경주시 서면 천촌리 486",
+      "gps": "35.864765,129.042114",
+      "overlay_applied": true
+    },
+    {
+      "filename": "DJI_0015.JPG",
+      "status": "SUCCESS",
+      "address": "경상북도 경주시 서면 천촌리 485",
+      "gps": "35.864665,129.042698",
+      "overlay_applied": true
+    },
+    {
+      "filename": "DJI_0016.JPG",
+      "status": "SUCCESS",
+      "address": "경상북도 경주시 서면 천촌리 486",
+      "gps": "35.864769,129.042111",
+      "overlay_applied": true
+    }
+  ]
+}
